@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "materia-dark-theme@tiberius",
       "strict_min_version": "89.0"
@@ -9,7 +9,7 @@
   },
 
   "name": "Materia Dark Theme",
-  "version": "2022.6.26",
+  "version": "2023.10.7",
   "description": "Materia-dark GTK theme port for Firefox",
 
   "theme": {
